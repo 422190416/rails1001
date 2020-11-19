@@ -43,7 +43,6 @@ gem 'bootstrap-sass', '~> 3.4.1'
 gem 'simple_form'
 
 gem 'devise'
-
 gem 'will_paginate'
 
 gem 'sassc-rails', '>= 2.1.0'
